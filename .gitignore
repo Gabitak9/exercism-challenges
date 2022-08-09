@@ -1,0 +1,5 @@
+# exclude everything except directory __pycache__ and .exercism
+
+*.py[cod]
+**/__pycache__/
+**/.exercism/
